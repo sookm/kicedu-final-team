@@ -681,9 +681,6 @@ axes[1].set_title("kdeplot")
 
 fig.tight_layout()
 
-
-fig.
-
 sns.kdeplot
 sns.kdeplot(df3)
 
