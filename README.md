@@ -1,13 +1,16 @@
-## | kaggle data analysis 
+## kaggle data analysis 
 
-***This was the final team project in 'Data Analysis Process Using R and Python' with the aim of reviewing and putting to use the contents of the class.***<br />
+***This was the final team project in "Data Analysis Process Using R and Python" 
+with the aim of reviewing and putting to use the contents of the class.***<br />
 ***This data set is part of a report into education in Portugal.
 References to Portuguese educational issues could also be identified in an EU report.***<br />
 
 ***The data's dependent variable is students' math scores.***<br />
-***The purpose for this predictive analysis is to identify the main variables that affect the students' final grades and find better combinations of variables.***
-***With reference to thesis papers and articles related to student performance, a hypothesis is constructed and a prediction is made.***<br />
-
+***The purpose for this predictive analysis is to identify the main variables that affect the students' final grades 
+and find better combinations of variables.***
+***With reference to thesis papers and articles related to student performance, 
+a hypothesis is constructed and a prediction is made.***<br />
+<br/>
 
 <R과 파이썬을 활용한 데이터 분석 과정>에서 
 수업 내용의 복습과 활용을 목표로하여, 프로젝트를 수행했습니다.
