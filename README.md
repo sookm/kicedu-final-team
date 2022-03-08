@@ -2,13 +2,13 @@
 
 ***This was the final team project in "Data Analysis Process Using R and Python" 
 with the aim of reviewing and putting to use the contents of the class.***<br />
-***This data set is part of a report into education in Portugal.
+***This data set is part of a report into education in Portugal.<br />
 References to Portuguese educational issues could also be identified in an EU report.***<br />
 
 ***The data's dependent variable is students' math scores.***<br />
-***The purpose for this predictive analysis is to identify the main variables that affect the students' final grades 
-and find better combinations of variables.***
-***With reference to thesis papers and articles related to student performance, 
+***The purpose for this predictive analysis is to identify the main variables that affect the students' final grades <br />
+and find better combinations of variables.*** <br />
+***With reference to thesis papers and articles related to student performance, <br />
 a hypothesis is constructed and a prediction is made.***<br />
 <br/>
 
