@@ -1,7 +1,7 @@
 ## Final Data Analysis Team Project  
 
 ***This was the final team project in "Data Analysis Process Using R and Python" 
-with the aim of reviewing and putting to use the contents of the class.*** ***This data set is part of a report into education in Portugal.<br />
+with the aim of reviewing and putting to use </br> the contents of the class.*** ***This data set is part of a report into education in Portugal.
 References to Portuguese educational issues could also be identified in an EU report.***<br />
 
 ***The data's dependent variable is students' math scores.***<br />
