@@ -1,4 +1,4 @@
-## kaggle data analysis 
+## Final Data Analysis Team Project  
 
 ***This was the final team project in "Data Analysis Process Using R and Python" 
 with the aim of reviewing and putting to use the contents of the class.***<br />
