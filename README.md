@@ -5,7 +5,7 @@ with the aim of reviewing and putting to use the contents of the class.*** ***Th
 References to Portuguese educational issues could also be identified in an EU report.***<br />
 
 ***The data's dependent variable is students' math scores.***<br />
-***The purpose for this predictive analysis is to identify the main variables that affect the students' final grades and find better combinations of variables.*** ***With reference to thesis papers and articles related to student performance, a hypothesis is constructed and a prediction is made.***<br />
+***The purpose for this predictive analysis is to identify the main variables that affect the students' final grades and find better combinations of variables.***</br> ***With reference to thesis papers and articles related to student performance, a hypothesis is constructed and a prediction is made.***<br />
 <br/>
 
 <!-- <R과 파이썬을 활용한 데이터 분석 과정>에서 수업 내용의 복습과 활용을 목표로하여, 프로젝트를 수행했습니다. <br />
