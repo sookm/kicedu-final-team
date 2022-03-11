@@ -16,5 +16,19 @@ EU 보고서에서도 포르투갈 교육 이슈에 관한 언급을 확인 할 
 학생들의 마지막 성적에 영향을 미치는 주요 변수를 확인하고 적합한 변수조합을 찾는 데에 분석 목적을 두었습니다. <br />
 또한 학생 성적 수행과 관련한 논문, 기사 등의 내용을 참고하여 가설을 세운 뒤 검증해보는 방식으로 수행했습니다. -->
 
+<!-- 
+idea )
+-randomforest 모델 설명 + 사진 추가 
+-왜 randomforest 로 훈련했는가, + 모르면 randomforest 혹은 skitlean randomforest 모델의 장점이 무엇인가 
+-코드를 구현하기 위한 사전 설치 리스트 
+
+------------------------------------------------------
+What your application does,
+Why you used the technologies you used,
+Some of the challenges you faced and features you hope to implement in the future.
+
+4. How to Install and Run the Project
+
+-->
 - Language : 
 - 
